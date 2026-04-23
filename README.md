@@ -57,7 +57,7 @@ npm run dev
 
 **First Prompt:**
 
-"Create a complete SvelteKit web application called Career Passport for a Job Posting module. The app should be fully responsive on both desktop and mobile. The app should include the following pages:
+"Create a complete SvelteKit web application called Job Posting for a Job Posting module. The app should be fully responsive on both desktop and mobile. The app should include the following pages:
 1. Login Page - with tabs for Alumni, Employer, and Staff. Include Email/ID and Password fields, Forgot Password link, Sign In button, Sign in with Google, and Single Sign-On (SSO) options.
 2. Alumni Profile/Passport Page - showing user profile photo, name, verified status, GPA, Certificates, Honors count, Academic Honors list, Professional Skills with tags, and a Generate Professional CV button.
 3. Job Search Page - with search bar, filters (Degree, Skills, Location), and a list of hand-picked job cards showing job title, company, location, salary range, job type, match percentage, and Apply Now button.
