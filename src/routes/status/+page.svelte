@@ -38,7 +38,7 @@
           </div>
           <button class="btn btn-outline btn-sm" style="margin-left:auto;">Reply</button>
         </div>
-        <div class="message-bubble">"Hi Alex! Great news – the team was really impressed with your portfolio. We'd like to move forward with a technical interview. Are you available this Thursday?"</div>
+        <div class="message-bubble">"Hi Xian! Great news – the team was really impressed with your portfolio. We'd like to move forward with a technical interview. Are you available this Thursday?"</div>
       </div>
 
       <!-- Timeline -->

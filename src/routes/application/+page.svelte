@@ -7,9 +7,9 @@
   <div class="app-main">
     <div class="card card-pad" style="margin-bottom:20px;">
       <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid var(--gray-100);">
-        <div class="avatar avatar-lg">AK</div>
+        <div class="avatar avatar-lg">XL</div>
         <div>
-          <h2 style="font-size:20px;font-weight:700;color:var(--navy);margin-bottom:4px;">Alex Knight</h2>
+          <h2 style="font-size:20px;font-weight:700;color:var(--navy);margin-bottom:4px;">Xian Lopez</h2>
           <div class="verified-pill" style="margin-bottom:6px;">✓ Verified Student</div>
           <div style="font-size:14px;color:var(--gray-400);">Master of Computer Science</div>
         </div>

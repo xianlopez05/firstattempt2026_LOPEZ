@@ -33,7 +33,7 @@
       </div>
 
       {#each [
-        {title:'e-Diploma',sub:'University of Excellence · 2023',type:'diploma',color:'rgba(37,99,235,0.1)',stroke:'#2563EB'},
+        {title:'e-Diploma',sub:'Ateneo de Davao Universityllence · 2023',type:'diploma',color:'rgba(37,99,235,0.1)',stroke:'#2563EB'},
         {title:'Academic Transcript',sub:'Official Grade Report',type:'transcript',color:'rgba(37,99,235,0.1)',stroke:'#2563EB'},
         {title:'AWS Cloud Practitioner',sub:'Certification ID: AWS-88219',type:'cert',color:'rgba(245,158,11,0.1)',stroke:'#D97706'},
       ] as item}
