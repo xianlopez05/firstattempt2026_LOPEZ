@@ -70,7 +70,7 @@ npm run dev
 10. Applicant Screening Page - showing active listing, list of applicants with match percentage, skills tags, and View Profile buttons.
 Use a dark navy blue and white color scheme consistent throughout. Add a bottom navigation bar on mobile with icons for Search, Applied, Messages, and Profile."
 
-**File Attachments:** UI mockup screenshots (PNG images of each screen design)
+**File Attachments:** 10 UI mockup screenshots (PNG images of each screen design)
 
 ---
 
