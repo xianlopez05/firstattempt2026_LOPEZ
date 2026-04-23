@@ -74,24 +74,34 @@ Use a dark navy blue and white color scheme consistent throughout. Add a bottom 
 
 ---
 
-## Screenshots
+#### Screenshots
 
 ### Login Screen
+![Login Screen](images/01-login.PNG)
 
 ### Alumni Profile
+![Alumni Profile](images/02-profile.PNG)
 
 ### Job Search
+![Job Search](images/03-jobs.PNG)
 
 ### Job Details
+![Job Details](images/04-job-detail.PNG)
 
 ### Instant Application
+![Instant Application](images/05-application.PNG)
 
 ### Digital Vault
+![Digital Vault](images/06-vault.PNG)
 
 ### Application Status
+![Application Status](images/07-status.PNG)
 
 ### Employer Dashboard
+![Employer Dashboard](images/08-employer.PNG)
 
 ### Post a Job
+![Post a Job](images/09-post.PNG)
 
 ### Applicant Screening
+![Applicant Screening](images/10-screening.PNG)
