@@ -70,8 +70,37 @@ npm run dev
 10. Applicant Screening Page - showing active listing, list of applicants with match percentage, skills tags, and View Profile buttons.
 Use a dark navy blue and white color scheme consistent throughout. Add a bottom navigation bar on mobile with icons for Search, Applied, Messages, and Profile."
 
-**File Attachments:** 10 UI mockup screenshots (PNG images of each screen design)
+## PWA Conversion Log
 
+### Master Prompt (PWA)
+"I am building a Career Passport job posting app using SvelteKit. 
+I need to convert it into a fully offline-ready Progressive Web 
+Application (PWA). Help me generate a valid manifest.json with 
+university branding, register a Service Worker, implement caching 
+so the app works offline, and tell me where to place my app icons."
+
+### AI Tool Used
+Claude (claude.ai) — claude.ai/chat
+
+### Hallucinations / Manual Fixes
+
+1. **Invalid icon purpose field** — Claude wrote `"purpose": "any maskable"` 
+   as a combined string in one icon entry. This is invalid. Fixed by 
+   separating into two icon objects with individual purpose values.
+
+2. **Stale build cache** — Manifest syntax error persisted after fixing 
+   the JSON because the old broken version was cached in `.svelte-kit/`. 
+   Fixed by running `npx rimraf .svelte-kit` before rebuilding.
+
+3. **Missing favicon link** — Claude did not initially include 
+   `<link rel="icon" href="/favicon.ico" />` in app.html, causing 
+   a [404] GET /favicon.ico error. Added manually.
+
+4. **Dev mode vs Preview mode** — Tested in `npm run dev` which does 
+   not fully support PWA service workers. Had to switch to 
+   `npm run build && npm run preview` for proper PWA testing.
+
+**File Attachments:** 10 UI mockup screenshots (PNG images of each screen design)
 ---
 
 #### Screenshots
