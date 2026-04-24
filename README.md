@@ -28,7 +28,7 @@ nvm use lts
 
 ### Clone the repository
 ```bash
-git clone https://github.com/xianlope05/firstattempt2026_LOPEZ.git
+git clone https://github.com/xianlopez05/firstattempt2026_LOPEZ.git
 ```
 
 ### Navigate into the project directory
