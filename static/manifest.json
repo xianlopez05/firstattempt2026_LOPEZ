@@ -1,0 +1,25 @@
+{
+  "name": "Career Passport - Job Posting",
+  "short_name": "Job Posting",
+  "description": "A Job Posting Module web application built with SvelteKit",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0D1B3E",
+  "theme_color": "#0D1B3E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
